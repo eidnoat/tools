@@ -1,4 +1,4 @@
-module github.com/eidnoat/tools/translate
+module github.com/eidnoat/tools
 
 go 1.26.1
 
